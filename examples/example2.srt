@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:03,839
+React, a JavaScript library for building user interfaces.
+
+2
+00:00:03,839 --> 00:00:06,160
+Developed at Facebook and released in 2013,
+
+3
+00:00:06,160 --> 00:00:10,080
+it's safe to say React has been the most influential UI library of recent memory.
+
+4
+00:00:10,080 --> 00:00:14,560
+We use it to build components that represent logical, reusable parts of the UI.
+
+5
+00:00:14,560 --> 00:00:17,760
+The beauty of React is that the simplicity of building a component
+
+6
+00:00:17,760 --> 00:00:20,000
+has been brought down to its theoretical minimum.
+
+7
+00:00:20,000 --> 00:00:21,839
+It's just a JavaScript function.
+
+8
+00:00:21,839 --> 00:00:24,160
+It's so easy, a caveman could do it.
+
+9
+00:00:24,160 --> 00:00:27,359
+The return value from this function is your HTML or UI,
+
+10
+00:00:27,359 --> 00:00:30,160
+which is written in a special syntax called JSX,
+
+11
+00:00:30,160 --> 00:00:33,520
+allowing you to easily combine JavaScript with HTML markup.
+
+12
+00:00:33,520 --> 00:00:35,280
+If you want to pass data into a component,
+
+13
+00:00:35,280 --> 00:00:37,119
+you simply pass at a props argument,
+
+14
+00:00:37,119 --> 00:00:41,039
+which you can then reference inside the function body or in the UI using braces.
+
+15
+00:00:41,039 --> 00:00:44,960
+If the value changes, React will react to update the UI.
+
+16
+00:00:44,960 --> 00:00:47,439
+If we want to give our component its own internal state,
+
+17
+00:00:47,439 --> 00:00:48,719
+we can use the state hook.
+
+18
+00:00:48,719 --> 00:00:51,439
+The hook is just a function that returns a value,
+
+19
+00:00:51,439 --> 00:00:53,600
+as well as a function to change the value.
+
+20
+00:00:53,600 --> 00:00:56,000
+In this case, count is our reactive state,
+
+21
+00:00:56,000 --> 00:00:57,920
+and set count will change the state.
+
+22
+00:00:57,920 --> 00:01:01,119
+When used in the template, the count will always show the most recent value.
+
+23
+00:01:01,119 --> 00:01:03,439
+Then we can bind set count to a button click event,
+
+24
+00:01:03,439 --> 00:01:05,200
+so the user can change the state.
+
+25
+00:01:05,200 --> 00:01:08,799
+React provides a variety of other built-in hooks to handle common use cases,
+
+26
+00:01:08,799 --> 00:01:11,840
+but the main reason you might want to use React is not the library itself,
+
+27
+00:01:11,840 --> 00:01:14,079
+but the massive ecosystem that surrounds it.
+
+28
+00:01:14,079 --> 00:01:16,000
+React itself doesn't care about routing,
+
+29
+00:01:16,000 --> 00:01:18,480
+state management, animation, or anything like that.
+
+30
+00:01:18,480 --> 00:01:22,239
+Instead, it lets those concerns evolve naturally within the open source community.
+
+31
+00:01:22,239 --> 00:01:23,439
+No matter what you're trying to do,
+
+32
+00:01:23,439 --> 00:01:26,560
+there's very likely a good supporting library to help you get it done.
+
+33
+00:01:26,560 --> 00:01:28,400
+Need a static site? You have Gatsby.
+
+34
+00:01:28,400 --> 00:01:30,239
+Need server-side rendering? You have next.
+
+35
+00:01:30,239 --> 00:01:31,680
+For animation, you have Spring.
+
+36
+00:01:31,680 --> 00:01:32,959
+For forums, you have Formic.
+
+37
+00:01:32,959 --> 00:01:36,799
+State management, you've got Redux, MobX, Flex, recoil, X state, and more.
+
+38
+00:01:36,799 --> 00:01:40,079
+You have an endless supply of choices to get things done the way you like it.
+
+39
+00:01:40,079 --> 00:01:42,079
+As an added bonus, once you have React down,
+
+40
+00:01:42,079 --> 00:01:45,120
+you can easily jump into React Native and start building mobile apps.
+
+41
+00:01:45,120 --> 00:01:47,760
+And it's no surprise that knowing this little UI library
+
+42
+00:01:47,760 --> 00:01:50,719
+is one of the most in-demand skills for front-end developers today.
+
+43
+00:01:50,719 --> 00:01:52,719
+This has been React in 100 seconds.
+
+44
+00:01:52,719 --> 00:01:54,400
+If you want to see more short videos like this,
+
+45
+00:01:54,400 --> 00:01:55,840
+make sure to like and subscribe,
+
+46
+00:01:55,840 --> 00:01:58,640
+and check out more advanced React content on Fireship I.O.
+
+47
+00:01:58,640 --> 00:02:00,239
+And if you're curious how I make these videos,
+
+48
+00:02:00,239 --> 00:02:03,519
+make sure to check out my new personal channel and video on that topic.
+
+49
+00:02:03,519 --> 00:02:06,719
+Thanks for watching, and I will see you in the next one.
+

@@ -1,0 +1,640 @@
+1
+00:00:00,000 --> 00:00:05,339
+You've likely seen videos on YouTube telling you the number one programming language to learn right now if you want to be rich.
+
+2
+00:00:05,339 --> 00:00:06,860
+That's not what we're doing today.
+
+3
+00:00:06,860 --> 00:00:18,579
+Instead, we're going to travel to the deepest, darkest depths of the software engineering field to discover the programming languages that are loved, hated, beautiful, ugly, and compiled, interpreted, useful, weird, and everything in between.
+
+4
+00:00:18,579 --> 00:00:24,760
+If you make it to the end, you'll have a roadmap for everything you need to know to land a job as a junior developer in 2023.
+
+5
+00:00:24,760 --> 00:00:30,420
+Or it might just make you extremely depressed, because this iceberg is just the tip of the iceberg of what you actually need to learn.
+
+6
+00:00:30,420 --> 00:00:37,700
+Choose any language, and you'll find another iceberg within this iceberg that goes on forever like a Mandelbrot set, which ironically you can represent in code.
+
+7
+00:00:37,700 --> 00:00:43,179
+With any one of the languages we're about to look at, before we get started, there's quite a few programming icebergs out there.
+
+8
+00:00:43,179 --> 00:00:48,780
+But this one ranks languages based on where I think you might encounter them as a beginner learning how to code from scratch.
+
+9
+00:00:48,780 --> 00:00:54,920
+Each level has its own theme, so let's get right into it, with languages that are designed to make programming as easy as possible.
+
+10
+00:00:54,920 --> 00:00:59,439
+If you know absolutely nothing about programming, the best place to start, in my opinion, is scratch.
+
+11
+00:00:59,439 --> 00:01:09,959
+It was developed at MIT, like some other languages on this list, but instead of typing out code, you drag and drop these blocks together like Lego bricks to represent things like variables, control flow, and operators.
+
+12
+00:01:09,959 --> 00:01:15,079
+It makes the thinking process behind programming much more accessible, and you might be surprised at when you can actually build with it.
+
+13
+00:01:15,939 --> 00:01:24,019
+Long before scratch, though, we had basic, or beginners all-purpose symbolic instruction code, which came out of Dartmouth in 1964.
+
+14
+00:01:24,019 --> 00:01:27,260
+At the time, Fortran was all the rage, but it wasn't beginner-friendly.
+
+15
+00:01:27,260 --> 00:01:37,260
+Basic provides a bunch of basic commands, like print, go-to, and for, and was included in most personal computers, which made it the go-to option for people learning to code for the next 50 years.
+
+16
+00:01:37,260 --> 00:01:41,739
+Now moving on to the next year, we have the extremely popular dynamic, high-level languages.
+
+17
+00:01:41,739 --> 00:01:46,239
+The language most people start with today is Python, primarily because of its minimal syntax.
+
+18
+00:01:46,239 --> 00:01:53,040
+It doesn't require curly braces, semicolons, and stuff like that, and instead uses indentation to represent different blocks of code.
+
+19
+00:01:53,040 --> 00:01:55,579
+The other popular high-level language is JavaScript.
+
+20
+00:01:55,579 --> 00:02:02,459
+Syntactically, it's pretty ugly, but it's a requirement if you want to do web development, and almost every developer will have to touch it at some point in their career.
+
+21
+00:02:02,459 --> 00:02:06,319
+Any application that can be written in JavaScript will eventually be written in JavaScript.
+
+22
+00:02:06,319 --> 00:02:11,680
+Now, after learning one of these languages, you'll be able to build pretty much anything you can imagine, and you could have an entire career
+
+23
+00:02:11,680 --> 00:02:14,680
+as a software engineer without going any further down the iceberg.
+
+24
+00:02:14,680 --> 00:02:18,080
+But you don't want to be on your deathbed wondering if you should have tried out PHP.
+
+25
+00:02:18,080 --> 00:02:22,379
+On this next year, we have languages that are extremely popular, but a little more specialized.
+
+26
+00:02:22,379 --> 00:02:29,979
+Programmers like to get things done from the terminal, and there are scripting languages like Bash and PowerShell that allow you to interact with your computer programmatically.
+
+27
+00:02:29,979 --> 00:02:34,680
+Instead of typing out the same commands over and over again, write a Bash script to make it reproducible.
+
+28
+00:02:34,680 --> 00:02:42,379
+Now, if you get into web development, you'll also need to learn HTML and CSS, which, when combined together, arguably form a Turing-complete programming language.
+
+29
+00:02:42,379 --> 00:02:47,180
+They're not used for programming in the traditional sense, but rather to define the structure and style of a website.
+
+30
+00:02:47,180 --> 00:02:51,780
+And if I were to say HTML is not a programming language, I would be immediately canceled by the tech community.
+
+31
+00:02:51,780 --> 00:02:57,580
+In addition, most apps need a database, and the most common language for working with databases is structured query language.
+
+32
+00:02:57,580 --> 00:03:00,180
+You can call it SQL, SQL, or Squeal.
+
+33
+00:03:00,180 --> 00:03:06,080
+It is Turing-complete, although not used for regular programming, but rather to read and write data in a relational database.
+
+34
+00:03:06,080 --> 00:03:11,680
+Now Python is great, but there are many other dynamic languages that might be a better fit for certain projects.
+
+35
+00:03:11,680 --> 00:03:16,680
+Like PHP made it easy to build server-side web apps in the 90s, and is still very popular today.
+
+36
+00:03:16,680 --> 00:03:22,680
+Lua is easier and faster than Python, and is embedded into many engines like Roblox and World of Warcraft.
+
+37
+00:03:22,680 --> 00:03:27,680
+Ruby is an easy to learn object-oriented language, also commonly used to build web apps with the Rails framework.
+
+38
+00:03:27,680 --> 00:03:36,280
+If you work in data science, you'll come across R, which is used for statistics and database, or Julia, a more modern option, also used for scientific computing.
+
+39
+00:03:36,280 --> 00:03:39,680
+The one thing all these languages have in common is a dynamic type system.
+
+40
+00:03:39,680 --> 00:03:47,280
+However, as you build more complex software, you may realize that you need a more rigid framework, and one way to accomplish that is with a static type system.
+
+41
+00:03:47,280 --> 00:03:50,080
+This tier makes up the bulk of production code out in the world.
+
+42
+00:03:50,080 --> 00:03:54,580
+First up, we have Java, which kind of revolutionized programming with the Java virtual machine.
+
+43
+00:03:54,580 --> 00:04:01,479
+It compiles to bytecode that runs on the JVM, and that allows developers to target any computer architecture from a single code base.
+
+44
+00:04:01,479 --> 00:04:04,479
+Syntactically, it's an absolute dumpster-fire for beginners.
+
+45
+00:04:04,479 --> 00:04:11,379
+I made an entire video about why people hate Java, but having explicit types in your code can make it much easier to understand and refactor.
+
+46
+00:04:11,379 --> 00:04:15,080
+And modern IDE is like IntelliJ, while pretty much make the code right itself.
+
+47
+00:04:15,080 --> 00:04:18,879
+Java is legendary, but it was followed up by Microsoft with C-sharp.
+
+48
+00:04:18,879 --> 00:04:22,579
+It's similar to Java in many ways, but gets a lot more love from its users.
+
+49
+00:04:22,579 --> 00:04:26,980
+It's used to build games with Unity, as well as web and desktop apps with the .NET framework.
+
+50
+00:04:26,980 --> 00:04:29,680
+Another well-loved tool from Microsoft is TypeScript.
+
+51
+00:04:29,680 --> 00:04:36,079
+It takes JavaScript and adds a type system on top of it, making it much easier to work with on large complex projects.
+
+52
+00:04:36,079 --> 00:04:42,980
+If you're building a mobile app today, you'll likely be working with Kotlin for Android, Swift for iOS, or Dart with the Flutter framework.
+
+53
+00:04:42,980 --> 00:04:50,680
+These languages are all statically typed, but they go about it in a more modern concise way with features like type inference that minimize boilerplate code.
+
+54
+00:04:50,680 --> 00:04:55,980
+Next up, we have Go, which is a high-performance language developed at Google to build low-level systems.
+
+55
+00:04:55,980 --> 00:05:01,480
+It was designed as a replacement for C, and Ken Thompson, one of the original creators of C, helped design it.
+
+56
+00:05:01,480 --> 00:05:10,680
+The syntax is nice and concise, making it approachable to beginners, and it has a garbage collector, which means unlike C, developers don't need to worry about manual memory management.
+
+57
+00:05:10,680 --> 00:05:15,579
+Okay, so at this point, we've reached the level of the iceberg, where most people are afraid to go any deeper.
+
+58
+00:05:15,579 --> 00:05:16,779
+Things are going to get weird.
+
+59
+00:05:16,779 --> 00:05:23,180
+What happens is that many developers get jaded with these big, heavy, object-oriented languages, and go searching for a better way.
+
+60
+00:05:23,180 --> 00:05:27,079
+At this level, we have functional languages, the most famous of which is Haskell.
+
+61
+00:05:27,079 --> 00:05:33,379
+Instead of classes, inheritance, and all kinds of crazy design patterns, the only abstraction you really need is the function.
+
+62
+00:05:33,379 --> 00:05:37,879
+It was inspired by the Miranda language, and is named after the mathematician Haskell Curry.
+
+63
+00:05:37,879 --> 00:05:42,180
+Most importantly, variables are immutable, and functions have no side effects.
+
+64
+00:05:42,180 --> 00:05:47,379
+Surprisingly, you can build almost anything with these limitations, although most production code out there is not functional.
+
+65
+00:05:47,379 --> 00:05:54,180
+Most of us run into problems when trying to figure out what a monad is, which in layman's terms is just a monoid in the category of end-functors.
+
+66
+00:05:54,180 --> 00:05:59,579
+Haskell is great, but Microsoft developed a functional sister language to see sharp, called F-sharp.
+
+67
+00:05:59,579 --> 00:06:07,879
+Unlike Haskell, which is purely functional, F-sharp is also imperative and object-oriented, making it more approachable to developers coming from higher up in the iceberg.
+
+68
+00:06:07,879 --> 00:06:15,680
+Now, if you hate Java, a good alternative is Scala. Like F-sharp, it supports both object-oriented and functional programming, but it runs on the JVM.
+
+69
+00:06:15,680 --> 00:06:21,379
+It's statically typed, but there's another JVM language called Closure that is both functional and dynamic.
+
+70
+00:06:21,379 --> 00:06:25,680
+This makes it more well-suited for getting things done quickly, with the trade-off of type-safety.
+
+71
+00:06:25,680 --> 00:06:36,279
+Other popular functional languages include OCAML, which is used extensively at Facebook, and a lickser, which has a very nice Ruby-like syntax, and is capable of building high-performance real-time web apps.
+
+72
+00:06:36,279 --> 00:06:46,779
+There's also Elm, which is a purely functional language that compiles to JavaScript, which can build front-end UIs with zero-run-time errors, but now it's time to go one level deeper to the heart of the iceberg.
+
+73
+00:06:46,779 --> 00:06:58,980
+These languages are absolute chats, their low-level systems languages that can manually manage and optimize memory, and are used to build things like operating system kernels and compilers that make all the other soy-based languages possible.
+
+74
+00:06:58,980 --> 00:07:07,579
+The most legendary of which is C. It was used to build the Windows, Mac, and Linux operating system kernels, and its curly-braced syntax inspired many other languages on this list.
+
+75
+00:07:07,579 --> 00:07:11,980
+Surprisingly, it's not all that hard to learn, and has a relatively small set of keywords to memorize.
+
+76
+00:07:11,980 --> 00:07:17,480
+However, being able to use it effectively requires extensive knowledge of algorithms and computer architecture.
+
+77
+00:07:17,480 --> 00:07:22,980
+For example, C doesn't have hash maps or dictionaries, so you'll have to learn how to code up that data structure on your own.
+
+78
+00:07:22,980 --> 00:07:29,980
+C was the perfect programming language when it came out in 1969, but it only supported procedural programming and eventually developers wanted more.
+
+79
+00:07:29,980 --> 00:07:37,480
+C++ was originally a superset of C designed to extend it with object-oriented programming patterns, like classes and inheritance.
+
+80
+00:07:37,480 --> 00:07:43,980
+Unlike C, it's extremely hard to learn, and provides many opportunities to not only shoot yourself in the foot, but blow your entire leg off.
+
+81
+00:07:43,980 --> 00:07:50,480
+This is a reference to manual memory management with pointers, which got that name because they're just as dangerous as pointing a gun at someone.
+
+82
+00:07:50,480 --> 00:07:57,480
+Despite its learning curve, it's an extremely prolific language used to build highly optimized software like game engines, compilers, and so on.
+
+83
+00:07:57,480 --> 00:08:03,480
+D and C++ are still extremely relevant today, but the modern chat tends to prefer rust for low-level programming.
+
+84
+00:08:03,480 --> 00:08:11,480
+It doesn't have a garbage collector, but unlike C and C++, it uses a technique called baro-checking instead of pointers for memory management.
+
+85
+00:08:11,480 --> 00:08:17,480
+This makes it much easier to write memory-safe programs, and consistently ranks as the most loved language in the world.
+
+86
+00:08:17,480 --> 00:08:24,480
+The languages on this tier are extremely popular, but now we descend further into the modern languages that you probably haven't heard of.
+
+87
+00:08:24,480 --> 00:08:32,480
+First up, we have V, which is a high-performance systems language that feels very similar to Go, but unlike Go, it doesn't use a garbage collector.
+
+88
+00:08:32,480 --> 00:08:41,480
+And unlike Rust, it doesn't do baro-checking, but it can still create memory-safe applications with its own auto-free innovation where the compiler basically cleans everything up.
+
+89
+00:08:41,480 --> 00:08:43,480
+I have no idea how it works, but it looks cool.
+
+90
+00:08:43,480 --> 00:08:53,480
+Another modern replacement for C is Zig. It's designed to simplify low-level programming by eliminating features like macros and metaprogramming, and is very explicit when it comes to memory management.
+
+91
+00:08:53,480 --> 00:09:09,480
+And it can cross-compile C and C++ just like Clang. Zig is not to be confused with Nim, another high-performance language that's very expressive like Python, but is statically typed, and interestingly, it has a tunable garbage collector that can be turned off altogether to enable manual memory management.
+
+92
+00:09:09,480 --> 00:09:17,480
+Recently, Google announced Carbon, designed to be a successor to C++. What makes it special is that it can fully interop with a legacy C++ codebase.
+
+93
+00:09:17,480 --> 00:09:26,480
+Another low-level specialty language is Solidity. It's a statically typed object-oriented language, but is designed for implementing smart contracts, especially on the Ethereum blockchain.
+
+94
+00:09:26,480 --> 00:09:37,480
+Then we've got Hack from Facebook, which is designed to interop with PHP. The original website was built with PHP, but they needed a language with better performance and a type system to scale it up to the monstrosity that it is today.
+
+95
+00:09:37,480 --> 00:09:43,480
+There are many other good modern languages at this point in the iceberg, like Crystal, Hacks, and Pharaoh, just to name a few.
+
+96
+00:09:43,480 --> 00:09:51,480
+But now it's time to go down to the next level, where we look at languages that are still either widely used or historically important, but not something you would likely choose to program in.
+
+97
+00:09:51,480 --> 00:10:01,480
+Fortran was the first high-level programming language, and was by far the most popular language for many years until C came around. Not long after Fortran, Lisp was invented in 1958.
+
+98
+00:10:01,480 --> 00:10:09,480
+It pioneered many ideas we take for granted in computer science today, like dynamic typing, higher-order functions, recursion, and repel.
+
+99
+00:10:09,480 --> 00:10:14,480
+It inspired many other languages, like Racket, Scheme, Closure, and to a certain extent, JavaScript.
+
+100
+00:10:14,480 --> 00:10:27,480
+Another highly influential language that came out this year was Algorithmic Language. It's a big complex language and never got as popular as Fortran, but its type system and use of expressions had a major influence on the development of C and C++.
+
+101
+00:10:27,480 --> 00:10:38,480
+The following year in 1959, Coball was born, if you want to make money in the 2020s learned Coball, because over 40% of banking systems still use it with over 200 billion lines of code in production today.
+
+102
+00:10:38,480 --> 00:10:54,480
+In 62, APL first appeared, which stands for a programming language. It implements linear algebra directly into the language with a multi-dimensional array or matrix being the central data type, this leads to extremely terse code that resembles mathematical notation, and makes heavy use of the Greek alphabet.
+
+103
+00:10:54,480 --> 00:11:03,480
+In 1970, Pascal was invented and took the programming world by storm. It's a procedural language with a familiar syntax, and also had very fast compile times.
+
+104
+00:11:03,480 --> 00:11:08,480
+It eventually became the most popular language in the early 1980s, before the rise of C a few years later.
+
+105
+00:11:08,480 --> 00:11:20,480
+There are many other important languages from this time period, like Simula, the first object-oriented language that went on to inspire small talk, which itself inspired many other object-oriented languages like Python, Java, and Ruby.
+
+106
+00:11:21,480 --> 00:11:47,480
+In addition, we should mention Prolog, the language that pioneered logic programming, and meta language, which pioneered the polymorphic type system, used by other statically type functional languages like Haskell.
+
+107
+00:11:48,480 --> 00:11:58,480
+There are many other historical languages we could talk about, but now it's time to descend into the realm of the Esoteric, where we find rare and bizarre languages that feel more like works of art than engineering tools.
+
+108
+00:11:58,480 --> 00:12:05,480
+The first note Esoteric language came out in 1972 and was called Intercal, which stands for compiler language with no pronounceable acronym.
+
+109
+00:12:05,480 --> 00:12:16,480
+It was designed as a parody to make fun of the languages of the day, like Algol and Fortran. It has an entire paradoxical reference manual that makes no sense, and has an interesting choice of keywords like please and mingle.
+
+110
+00:12:16,480 --> 00:12:19,480
+Please doesn't actually do anything, but it makes you a more polite programmer.
+
+111
+00:12:19,480 --> 00:12:23,480
+Next up, we have Brain F***, Brain F*** is most well-known for being extremely minimal.
+
+112
+00:12:23,480 --> 00:12:31,480
+Urban Mueller created Brain F*** in college, and it works by initializing an array, then gives you a pointer and eight different characters to manipulate memory in that array.
+
+113
+00:12:31,480 --> 00:12:42,480
+This results in a code base that will f*** your brain up. It inspired another language called Male Bulge, or maybe it's Mount Bulgea, which is named after the 8th Circle of Hell and the Divine Comedy, or Dante's Inferno.
+
+114
+00:12:42,480 --> 00:12:46,480
+If you thought Brain F*** was difficult, this language takes things to a whole other level.
+
+115
+00:12:46,480 --> 00:12:50,480
+It makes programming so difficult that I can't even summarize how it works in a single sentence.
+
+116
+00:12:50,480 --> 00:12:57,480
+If that's a little too dark, a far more fun language is Chef, which is stack-based, and is designed to make your code look like a cooking recipe.
+
+117
+00:12:57,480 --> 00:13:03,480
+Instead of concise keywords, it uses sentences like putting ingredient into mixing bowl to push a value onto the stack.
+
+118
+00:13:03,480 --> 00:13:09,480
+Put these commands together to create a Hello World Souffle, then specify how many it serves to write it to the standard output.
+
+119
+00:13:09,480 --> 00:13:16,480
+It's cool, but it may seem kind of silly to an intellectual. The Shakespeare programming language will make your code look like a Shakespearean play.
+
+120
+00:13:16,480 --> 00:13:20,480
+It provides the low-level control of assembly, with the verbosity of 16th century poetry.
+
+121
+00:13:20,480 --> 00:13:25,480
+But if words aren't really your thing, then a good language choice would be Piet, which is named after Piet Mondrian.
+
+122
+00:13:25,480 --> 00:13:30,480
+It's also stack-based, but you write code, utilizing patterns of 20 different colors on a bitmap image.
+
+123
+00:13:30,480 --> 00:13:33,480
+The end result is a code base that looks like abstract art.
+
+124
+00:13:33,480 --> 00:13:41,480
+Now, if you're a crazy cat lady, you're really going to love this next language, LOL code, which provides a developer experience similar to an LOL cat meme.
+
+125
+00:13:41,480 --> 00:13:45,480
+You open a program by saying hi, then end it by saying k thanks by.
+
+126
+00:13:45,480 --> 00:13:48,480
+Loops can be performed with I'm in here, or broken out of with I'm out of here.
+
+127
+00:13:48,480 --> 00:13:52,480
+That's nice and easy to understand, but it would be even better if it included emojis.
+
+128
+00:13:52,480 --> 00:13:56,480
+Emoji code is a language where the syntax is entirely based on emojis.
+
+129
+00:13:56,480 --> 00:14:02,480
+Modern developers like to use so many emojis in their documentation that this language would just streamline the entire process.
+
+130
+00:14:02,480 --> 00:14:10,480
+It's a fully featured object oriented language where you can define code blocks with grapes and watermelons, classes with rabbits, and generics with shells and eggplants.
+
+131
+00:14:10,480 --> 00:14:14,480
+Another language that's not necessarily esoteric is C minus minus.
+
+132
+00:14:14,480 --> 00:14:19,480
+It's designed as a portable assembly language that borrows heavily from C, but omits many of its features.
+
+133
+00:14:19,480 --> 00:14:28,480
+The ultimate dialect of C though is Holy C, which was created by Terry A. Davis used to build Temple OS, an operating system written under the direction of God.
+
+134
+00:14:28,480 --> 00:14:38,480
+Holy C is actually really cool because it works like C, but it's just in time compiled on the operating system, which means you can use it like a scripting language that can interact directly with the operating system kernel.
+
+135
+00:14:38,480 --> 00:14:43,480
+And that brings us to the final tier, the absolute lowest level you can go with your learning as a software engineer.
+
+136
+00:14:43,480 --> 00:14:49,480
+Assembly is a language of which there are many variations that correspond directly to the architecture on the CPU.
+
+137
+00:14:49,480 --> 00:14:55,480
+Different CPU architectures like x86 and arm require different machine code instructions.
+
+138
+00:14:55,480 --> 00:15:00,480
+Assembly allows you to represent this code with simple commands that manipulate values on the CPU's registers.
+
+139
+00:15:00,480 --> 00:15:04,480
+Now, if that looks too easy, the next level down is machine code.
+
+140
+00:15:04,480 --> 00:15:09,480
+At this point, we're looking at ones and zeros or raw binary, usually represented in hexadecimal format.
+
+141
+00:15:09,480 --> 00:15:15,480
+To code at this level, you'll need to have intimate knowledge of the computer's architecture and also be able to count in binary.
+
+142
+00:15:15,480 --> 00:15:20,480
+But if we go beyond machine code, now we're looking at billions of transistors on a CPU.
+
+143
+00:15:20,480 --> 00:15:27,480
+A single transistor represents one bit, like a one or zero, by controlling the amount of electricity that flows through a piece of silicon.
+
+144
+00:15:27,480 --> 00:15:35,480
+Now, in order to do anything useful, the transistors need to be organized into logic gates like not and or exclusive or and so on.
+
+145
+00:15:35,480 --> 00:15:43,480
+Ultimately, it's these very simple chunks of logic that perform the miracle of taking some electricity as an input that can produce some other electricity as an output.
+
+146
+00:15:43,480 --> 00:15:48,480
+And do it billions of times per second all over the world so you can play video games with your friend and Vietnam.
+
+147
+00:15:48,480 --> 00:15:52,480
+If that was too easy, then you may want to look into the field of quantum electrodynamics.
+
+148
+00:15:52,480 --> 00:15:56,480
+You fully understand how these particles behave in the electromagnetic quantum vacuum.
+
+149
+00:15:56,480 --> 00:16:02,480
+You can then use your skills to build a next gen blazingly fast quantum computer and become the richest person in history.
+
+150
+00:16:02,480 --> 00:16:05,480
+At this point in the iceberg, there's only one place left to go.
+
+151
+00:16:05,480 --> 00:16:07,480
+The scariest place of all, yourself.
+
+152
+00:16:07,480 --> 00:16:10,480
+Once you know everything, the question becomes, what is knowledge?
+
+153
+00:16:10,480 --> 00:16:15,480
+A epistemology is the theory of knowledge and philosophers still don't have a good answer to this day.
+
+154
+00:16:15,480 --> 00:16:17,480
+Reality only exists within my own mind.
+
+155
+00:16:17,480 --> 00:16:23,480
+For all I know, the entire external world and older knowledge I've acquired are just illusions and projections from my own ego.
+
+156
+00:16:23,480 --> 00:16:28,480
+Maybe there's a godlike being that controls all the sensations and knowledge received by my mind.
+
+157
+00:16:28,480 --> 00:16:32,480
+Or perhaps my real body isn't a bad of a goo and I'm already living in Zuckerberg's metaverse.
+
+158
+00:16:32,480 --> 00:16:35,480
+Or maybe I never came out of that ayahuasca trip I took 10 years ago.
+
+159
+00:16:35,480 --> 00:16:37,480
+The only thing I really know is that I know nothing.
+
+160
+00:16:37,480 --> 00:16:40,480
+Thanks for watching and I will see you in the next one.
+
