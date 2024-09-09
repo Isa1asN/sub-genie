@@ -1,7 +1,7 @@
 import pika, tempfile, json, os
 from bson.objectid import ObjectId
 import pika.spec
-from stt import STT
+from transcribe.stt import STT
 
 def start(message, fs_videos, fs_srts, channel):
     message = json.loads(message)
