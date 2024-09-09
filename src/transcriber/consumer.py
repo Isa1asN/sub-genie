@@ -5,7 +5,7 @@ from transcribe import to_srt
 
 
 def main():
-    client = MongoClient("host.minikube.internal", 27017)
+    client = MongoClient("host.docker.internal", 27017)
 
     db_videos = client.videos
     db_srts = client.srts
